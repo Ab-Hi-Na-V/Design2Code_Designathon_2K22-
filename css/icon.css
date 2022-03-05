@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.span_ {
+    margin-left: 1em;
+    margin-bottom: 2em;
+}
+body {
+    width: 30%;
+    margin: auto;
+    margin-top: 10%;
+}
+.grided {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
